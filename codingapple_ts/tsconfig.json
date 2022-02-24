@@ -1,8 +1,10 @@
 {
 	"compilerOptions": {
 		"target": "es5",
-		"module": "commonjs",
+		// "module": "commonJs",
+		"module": "ES2015",
 		"noImplicitAny": true,
-		"strictNullChecks": true
+		"strictNullChecks": true,
+		
 	}
 }
