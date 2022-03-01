@@ -5,6 +5,6 @@
 		"module": "ES2015",
 		"noImplicitAny": true,
 		"strictNullChecks": true,
-		
+		"declaration": false // true시 ts파일마다 d.ts 파일 자동생성됨.
 	}
 }
